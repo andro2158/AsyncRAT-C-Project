@@ -1,0 +1,10 @@
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Release\Miscellaneous.csproj.AssemblyReference.cache
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Release\Miscellaneous.Properties.Resources.resources
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Release\Miscellaneous.csproj.GenerateResource.cache
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Release\Miscellaneous.csproj.CoreCompileInputs.cache
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Release\Miscellaneous.dll
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Release\Miscellaneous.csproj.AssemblyReference.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Release\Miscellaneous.Properties.Resources.resources
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Release\Miscellaneous.csproj.GenerateResource.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Release\Miscellaneous.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Release\Miscellaneous.dll

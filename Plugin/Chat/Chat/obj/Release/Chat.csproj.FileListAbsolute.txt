@@ -1,0 +1,9 @@
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Chat\Chat\obj\Release\Plugin.FormChat.resources
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Chat\Chat\obj\Release\Chat.csproj.GenerateResource.cache
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Chat\Chat\obj\Release\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Chat\Chat\obj\Release\Chat.dll
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Chat\Chat\obj\Release\Chat.csproj.AssemblyReference.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Chat\Chat\obj\Release\Plugin.FormChat.resources
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Chat\Chat\obj\Release\Chat.csproj.GenerateResource.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Chat\Chat\obj\Release\Chat.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Chat\Chat\obj\Release\Chat.dll

@@ -1,0 +1,6 @@
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendFile\SendFile\obj\Release\SendFile.csproj.AssemblyReference.cache
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendFile\SendFile\obj\Release\SendFile.csproj.CoreCompileInputs.cache
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendFile\SendFile\obj\Release\SendFile.dll
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendFile\SendFile\obj\Release\SendFile.csproj.AssemblyReference.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendFile\SendFile\obj\Release\SendFile.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendFile\SendFile\obj\Release\SendFile.dll

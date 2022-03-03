@@ -1,0 +1,10 @@
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Binaries\Release\Plugins\FileSearcher.dll
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\FileSearcher\FileSearcher\obj\Release\FileSearcher.csproj.AssemblyReference.cache
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\FileSearcher\FileSearcher\obj\Release\FileSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\FileSearcher\FileSearcher\obj\Release\FileSearcher.csproj.Fody.CopyLocal.cache
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\FileSearcher\FileSearcher\obj\Release\FileSearcher.dll
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Binaries\Release\Plugins\FileSearcher.dll
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\FileSearcher\FileSearcher\obj\Release\FileSearcher.csproj.AssemblyReference.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\FileSearcher\FileSearcher\obj\Release\FileSearcher.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\FileSearcher\FileSearcher\obj\Release\FileSearcher.csproj.Fody.CopyLocal.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\FileSearcher\FileSearcher\obj\Release\FileSearcher.dll

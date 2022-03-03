@@ -1,0 +1,5 @@
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Options\Options\obj\Release\Options.csproj.CoreCompileInputs.cache
+C:\Users\Rishit\Downloads\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Options\Options\obj\Release\Options.dll
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Options\Options\obj\Release\Options.csproj.AssemblyReference.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Options\Options\obj\Release\Options.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Options\Options\obj\Release\Options.dll

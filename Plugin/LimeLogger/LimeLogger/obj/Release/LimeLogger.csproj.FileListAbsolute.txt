@@ -1,0 +1,3 @@
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\LimeLogger\LimeLogger\obj\Release\LimeLogger.csproj.AssemblyReference.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\LimeLogger\LimeLogger\obj\Release\LimeLogger.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\AsyncRAT-C-Sharp-master\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\LimeLogger\LimeLogger\obj\Release\LimeLogger.dll
